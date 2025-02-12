@@ -22,7 +22,7 @@
 🔹 Клонируйте этот репозиторий:
 
 ```bash
-git clone [https://github.com/your-repo/cafe-orders.git](https://github.com/rezvaya/cafe_app.git)
+git clone https://github.com/rezvaya/cafe_app.git
 cd cafe_app
 ```
 
